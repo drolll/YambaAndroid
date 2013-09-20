@@ -4,5 +4,8 @@
     <string name="app_name">Yamba</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="sendButton">Senden</string>
+    <string name="titleStatus">Nachricht Senden</string>
+    <string name="statusTextFieldHint">Geben Sie Ihre 140-Zeichen-Nachricht ein.</string>
 
 </resources>
